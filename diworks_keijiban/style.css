@@ -1,0 +1,172 @@
+/* ロゴ画像 */
+.logo {
+    float: left;
+    width: 230px;
+    height: 70px;
+}
+
+/* メニュー背景 */
+.black {
+    float: left;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+
+/* メニュートップ */
+.top {
+    float: left;
+    color: white;
+    font-size: 14px;
+    padding-left: 30px;
+    line-height: 15px;
+}
+
+/* メニュー項目 */
+.black ul {
+    float: left;
+    list-style: none;
+}
+
+.black ul li {
+    float: left;
+    color: white;
+    font-size: 14px;
+    padding-right: 25px;
+    line-height: 10px;
+}
+
+/* メニューその他 */
+.another {
+    float: left;
+    color: white;
+    font-size: 14px;
+    padding-left: 20px;
+    line-height: 15px;
+}
+
+/* 左青ライン */
+.left {
+    float: left;
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 74%;
+}
+
+/* プラグラミングに役立つ掲示板 */
+.program {
+    margin-top: 0;
+    font-size: 25px;
+    border-bottom: 3px solid black;
+    border-left: 5px solid black;
+}
+
+/* フォーム背景 */
+form {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+}
+
+/* 入力フォーム */
+h1 {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-left: 4px rgb(155, 26, 26) solid;
+    padding-left: 8px;
+    width: 500px;
+    font-size: 18px;
+}
+
+/* 項目の間隔 */
+form div {
+    padding: 5px;
+}
+
+/* 入力欄 */
+.handlename, .title, textarea {
+    border: 3px solid #f5f2f2;
+    padding: 5px;
+}
+
+/* 投稿する */
+.botan {
+    border: 3px solid ,#777575;
+    padding: 4px, 10px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: #777575;
+    border-radius: 5px;
+    border-bottom: 3px solid #1b1919;
+}
+
+/* コメント欄 */
+.kiji {
+    margin-top: 10px;
+    background-color: #fbfbfb;
+    border: 3px solid #ebebeb;
+}
+
+/* 投稿欄 */
+.title2 {
+    margin-right: 5px;
+    margin-left: 15px;
+    border-bottom: 2px solid #ebebeb;
+    line-height: 0;
+    padding-top: 15px;
+}
+
+.contents {
+    margin-left: 15px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+
+.handlename2 {
+    margin-left: 15px;
+    padding-bottom: 15px;
+}
+
+/* 右のリスト */
+.right {
+    float: left;
+    margin-top: 5px;
+    width: 25%;
+    height: 1151px;
+}
+
+/* 右タイトル */
+.right h3 {
+    font-size: 14px;
+    border-bottom: 3px dashed rgb(191, 187, 187);
+    padding-top: 13px;
+    padding-left: 3px;
+}
+
+/* 右項目 */
+.right ul {
+    padding-left: 18px;
+    list-style: none;
+}
+
+.right ul li {
+    font-size: 14px;
+}
+
+/* 最下部背景 */
+footer {
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    margin-top: 3px;
+}
+
+/* 最下部文字 */
+footer div {
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}
